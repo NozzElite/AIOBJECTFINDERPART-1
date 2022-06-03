@@ -22,7 +22,7 @@ body{
 canvas{
     border-radius: 10px;
     background-color: darkturquoise;
-    box-shadow: 7px 7px 7px snow;
+    box-shadow: 7px 7px 15px darkgoldenrod;
 }
 p{
     color: black;
